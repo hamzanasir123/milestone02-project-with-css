@@ -1,0 +1,27 @@
+.h1{
+    text-align: center;
+    font-size: 6rem;
+    color: #b88a33;
+}
+.p{
+    margin-top: 10px;
+    text-align: center;
+    color: gray;
+}
+/* .grid{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+} */
+
+.div1{
+    text-align: center;
+}
+.li{
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: gray;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
