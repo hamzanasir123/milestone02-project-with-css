@@ -15,7 +15,7 @@ function HowWeDo() {
         className={styles.span}
         >How We Do</span> from a chocolate sellers perspective is about <br/>
          creating joyful experiences and lasting memories with each sweet treat.<br/>
-         Selling chocolate is not just about transactions; <br/> it's about delighting customers with rich flavors and quality.<br/>
+         Selling chocolate is not just about transactions; <br/> its about delighting customers with rich flavors and quality.<br/>
          We carefully source the finest ingredients to ensure every bite is pure indulgence.<br/>
          Our process includes perfect packaging, a smile at every sale,<br/> and a personalized touch that makes each interaction unique.<br/>
          Through our products, we spread happiness,<br/> crafting a reputation based on trust and taste.<br/>

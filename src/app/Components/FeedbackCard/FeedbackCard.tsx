@@ -21,7 +21,7 @@ const FeedbackCard: React.FC<CardProps> = ({msg, Name}) => {
           width={80}
         />
         <p className={styles.p}>
-        "{msg}"
+        &quot;{msg}&quot;
         </p>
         <h3 className={styles.h3}>{Name}.....</h3>
       </div>
